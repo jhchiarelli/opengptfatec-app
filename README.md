@@ -17,4 +17,4 @@ Projeto foi desenvolvido utilizando o Next.js com Tailwind, integrando com a API
 * Jorge Henrique
 * Lucas da Mata
 * Luciano Ricardo Junior
-* Rodigo Bento
+* Rodrigo Bento
